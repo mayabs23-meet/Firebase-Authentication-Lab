@@ -10,7 +10,7 @@ config = {
   "messagingSenderId": "930810515359",
   "appId": "1:930810515359:web:379f203599d60a0f3b77aa",
   "measurementId": "G-6HSZTJNWYV",
-  "databaseURL":""
+  "databaseURL":"https://console.firebase.google.com/project/maya-bsharat/database/maya-bsharat-default-rtdb/data/~2F"
 
 }
 
